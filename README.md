@@ -1,6 +1,9 @@
 # wear-me
 
-Wear me helps bring your wearables idea to life. You can create clothes and accesories that light up or make sound on loop, when you move, press a button, or receive a certain amount of light.
+Wear me helps bring your wearables idea to life. You can create clothes and accessories that light up or make sound on loop, when you move, press a button, or receive a certain amount of light.
+
+## You will need:
+- Windows or Mac laptop with available USB port
 
 ## This kit contains:
 - Boards
@@ -28,6 +31,9 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
   - Alligator cables
   - Wire
   - Micro-USB cables
+- Tools
   - Electrical tape
   - Wire snips
   - Needlenose pliers
+
+## Getting started
