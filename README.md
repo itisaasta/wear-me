@@ -3,7 +3,7 @@
 Wear me helps bring your wearables idea to life. You can create clothes and accessories that light up or make sound on loop, when you move, press a button, or receive a certain amount of light.
 
 ## You will need:
-- Windows or Mac laptop with available USB port
+- Laptop with available USB port (Mac, Windows, or Linux)
 
 ## This kit contains:
 - Boards
