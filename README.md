@@ -53,3 +53,6 @@ Each of the Adafruit wearables boards needs a support package to run in the Ardu
 Each of the Adafruit wearables components requires a library in the Arduino IDE to function. From within the Arduino IDE:
 1. From the Arduino IDE menu, Sketch --> Include Library --> Manage Libraries
 2. 
+
+## Building
+You will build the circuits for your idea using alligator clips first, then when it is fully functional, you can sew the circuit into your finished product.
