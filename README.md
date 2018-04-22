@@ -39,9 +39,9 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
 ## Getting started
 ### Install Arduino integrated development environment
 In order to program software code for your wearable, you will need to install the Arduino Integrated Development Environment (IDE) on your computer. Please install the Arduino IDE using the link appropriate for your operating system below.
-- [https://www.arduino.cc/download_handler.php?f=/arduino-1.8.5-macosx.zip](Mac)
-- [https://www.arduino.cc/download_handler.php?f=https://www.microsoft.com/store/apps/9nblggh4rsd8?ocid=badge](Windows)
-- [https://www.arduino.cc/en/Main/Software](Other)
+- (https://www.arduino.cc/download_handler.php?f=/arduino-1.8.5-macosx.zip)[Mac]
+- (https://www.arduino.cc/download_handler.php?f=https://www.microsoft.com/store/apps/9nblggh4rsd8?ocid=badge)[Windows]
+- (https://www.arduino.cc/en/Main/Software)[Other]
 
 ### Install Adafruit boards in Arduino IDE
 Each of the Adafruit wearables boards needs a support package to run in the Arduino IDE. To add the support package:
