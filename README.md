@@ -14,8 +14,9 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
   - Red sequins
   - Blue sequins
   - Neopixel jewels
-  - Neopixel rings
-  - Neopixel strips
+  - Neopixel 12 rings
+  - Neopixel 24 rings
+  - Neopixel 60 strips
 - Inputs
   - Tilt ball switches
   - Soft potentiometers
@@ -25,6 +26,7 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
   - Accelerometer + compass
   - Force sensor
   - Conductive fabric
+  - Conductive rubber cord stretch sensor
 - Utilities
   - Conductive thread
   - Needles
@@ -52,7 +54,12 @@ Each of the Adafruit wearables boards needs a support package to run in the Ardu
 ### Install Adafruit libraries in Arduino IDE
 Each of the Adafruit wearables components requires a library in the Arduino IDE to function. From within the Arduino IDE:
 1. From the Arduino IDE menu, Sketch --> Include Library --> Manage Libraries
-2. 
+2. In Library Manager, type the library name in the Filter Your Search field (you do not need to type in the words in parentheses):
+- Adafruit Neopixel (lights)
+- Adafruit TCS34725 (color sensor)
+- Adafruit LSM303DLHC (accelerometer + compass)
+- Adafruit SI1145 Library (UV light sensor)
+- Capacitive Sensor (conductive fabric)
 
 ## Building
 You will build the circuits for your idea using alligator clips first, then when it is fully functional, you can sew the circuit into your finished product.
