@@ -72,4 +72,11 @@ Each component has its own hardware connection diagrams and code samples. You wi
 |---|---|---|---|
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/gemma.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png" width="200px"/> |
 | Adafruit FLORA | Adafruit Gemma | 24 Neopixel Ring | 12 Neopixel Ring |
-|   |   |   |   |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-7-jewel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-60-strip.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/color-sensor.png" width="200px"/> |
+| 7 Neopixel Jewel | Neopixel | 60 Neopixel Strip | Color Sensor |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/uv-light-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/accelerometer-compass.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/tilt-ball-switch.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/force-sensor.png" width="200px"/> |
+| UV Light Sensor | Accelerometer & Compass | Tilt Ball Switch | Force Sensor |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/soft-potentiometer.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-fabric.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-rubber-cord-stretch-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/on-off-switch.png" width="200px"/> |
+| Soft Potentiometer | Conductive Fabric | Conductive Rubber Cord Stretch Sensor | On/Off Switch |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-thread.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/alligator-clips.png" width="200px"/> |   |   |
+| Conductive Thread | Alligator Clips |   |   |
