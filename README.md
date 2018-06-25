@@ -67,3 +67,9 @@ You will build the circuits for your idea using alligator clips first, then when
 Each component has its own hardware connection diagrams and code samples. You will find detailed instructions for each component you can work with in the corresponding folder.
 
 <img src="https://github.com/eaziware/wear-me/blob/master/images/flora_pinout.png"/>
+
+|   |   |   |   |
+|---|---|---|---|
+| ![](https://github.com/eaziware/wear-me/blob/master/images/flora.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/gemma.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png) |
+|   |   |   |
+|   |   |   |
