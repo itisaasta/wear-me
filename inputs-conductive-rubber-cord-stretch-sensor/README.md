@@ -1,0 +1,3 @@
+# inputs-conductive-rubber-cord-stretch-sensor
+
+...
