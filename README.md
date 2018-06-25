@@ -57,14 +57,13 @@ Each component has its own hardware connection diagrams and code samples. You wi
 
 ### Components
 
-
 - Boards
   - Adafruit FLORA
   - Adafruit Gemma
 - Lights
-  - Neopixels
   - Red sequins
   - Blue sequins
+  - Neopixels
   - 7 Neopixel jewels
   - 12 Neopixel rings
   - 24 Neopixel rings
