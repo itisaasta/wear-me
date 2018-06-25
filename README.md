@@ -44,6 +44,10 @@ Each of the Adafruit wearables components requires a library in the Arduino IDE 
 - Adafruit SI1145 Library (UV light sensor)
 - Capacitive Sensor (conductive fabric)
 
+### Download this repository to your computer
+1. Click clone or download, then click download .zip, and save where you can easily reference
+2. Each component folder has a code sample in a .ino file that can be opened in the Arduino IDE
+
 ## Building
 You will build the circuits for your idea using alligator clips first, then when it is fully functional, you can sew the circuit into your finished product.
 
