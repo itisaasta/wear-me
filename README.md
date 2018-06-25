@@ -45,7 +45,7 @@ Each of the Adafruit wearables components requires a library in the Arduino IDE 
 - Capacitive Sensor (conductive fabric)
 
 ### Download this repository to your computer
-1. Click clone or download, then click download .zip, and save where you can easily reference
+1. From GitHub, click clone or download, then click download .zip, and save where you can easily reference
 2. Each component folder has a code sample in a .ino file that can be opened in the Arduino IDE
 
 ## Building
