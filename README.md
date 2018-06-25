@@ -16,7 +16,7 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
 | Color Sensor | UV Light Sensor | Accelerometer & Compass | Tilt Ball Switch |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/force-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/soft-potentiometer.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-fabric.png" width="200px"/> |   |
 | Force Sensor | Soft Potentiometer | Conductive Fabric | Conductive Rubber Cord |
-| <img src="https://github.com/eaziware/wear-me/blob/master/images/on-off-switch.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-thread.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/alligator-clips.png" width="200px"/> |   |   |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/on-off-switch.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-thread.png" width="200px"/> |   | <img src="https://github.com/eaziware/wear-me/blob/master/images/alligator-clips.png" width="200px"/> |   |
 | On/Off Switch | Conductive Thread | Needles | Alligator Cables |
 | Wire | Micro-USB Cables | Electrical Tape | Wire Snips |
 | Needlenose Pliers |
