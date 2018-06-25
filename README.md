@@ -64,4 +64,6 @@ Each of the Adafruit wearables components requires a library in the Arduino IDE 
 ## Building
 You will build the circuits for your idea using alligator clips first, then when it is fully functional, you can sew the circuit into your finished product.
 
+Each component has its own hardware connection diagrams and code samples. You will find detailed instructions for each component you can work with in the corresponding folder.
+
 <img src="https://github.com/eaziware/wear-me/blob/master/images/flora_pinout.png"/>
