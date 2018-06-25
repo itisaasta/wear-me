@@ -69,7 +69,7 @@ Each component has its own hardware connection diagrams and code samples. You wi
 <img src="https://github.com/eaziware/wear-me/blob/master/images/flora_pinout.png"/>
 
 |   |   |   |   |
-|---|---|---|---|
+|:---:|:---:|:---:|:---:|
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/gemma.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png" width="200px"/> |
 | Adafruit FLORA | Adafruit Gemma | 24 Neopixel Ring | 12 Neopixel Ring |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-7-jewel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-60-strip.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/color-sensor.png" width="200px"/> |
