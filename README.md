@@ -39,6 +39,7 @@ Each of the Adafruit wearables components requires a library in the Arduino IDE 
 1. From the Arduino IDE menu, Sketch --> Include Library --> Manage Libraries
 2. In Library Manager, type the library name in the Filter Your Search field (you do not need to type in the words in parentheses):
 - Adafruit Neopixel (lights)
+- Adafruit Unified Sensor (input sensors)
 - Adafruit TCS34725 (color sensor)
 - Adafruit LSM303DLHC (accelerometer + compass)
 - Adafruit SI1145 Library (UV light sensor)
