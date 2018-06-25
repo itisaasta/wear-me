@@ -6,37 +6,19 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
 - Laptop with available USB port (Mac, Windows, or Linux)
 
 ## This kit contains:
-- Boards
-  - Adafruit FLORA
-  - Adafruit Gemma
-- Lights
-  - Neopixels
-  - Red sequins
-  - Blue sequins
-  - 7 Neopixel jewels
-  - 12 Neopixel rings
-  - 24 Neopixel rings
-  - 60 Neopixel strips
-- Inputs
-  - Tilt ball switches
-  - Soft potentiometers
-  - On/Off switches
-  - Color sensors
-  - UV light sensors
-  - Accelerometer + compass
-  - Force sensor
-  - Conductive fabric
-  - Conductive rubber cord stretch sensor
-- Utilities
-  - Conductive thread
-  - Needles
-  - Alligator cables
-  - Wire
-  - Micro-USB cables
-- Tools
-  - Electrical tape
-  - Wire snips
-  - Needlenose pliers
+|   |   |   |   |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/gemma.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png" width="200px"/> |
+| Adafruit FLORA | Adafruit Gemma | 24 Neopixel Ring | 12 Neopixel Ring |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-7-jewel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-60-strip.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/color-sensor.png" width="200px"/> |
+| 7 Neopixel Jewel | Neopixel | 60 Neopixel Strip | Color Sensor |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/uv-light-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/accelerometer-compass.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/tilt-ball-switch.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/force-sensor.png" width="200px"/> |
+| UV Light Sensor | Accelerometer & Compass | Tilt Ball Switch | Force Sensor |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/soft-potentiometer.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-fabric.png" width="200px"/> |   | <img src="https://github.com/eaziware/wear-me/blob/master/images/on-off-switch.png" width="200px"/> |
+| Soft Potentiometer | Conductive Fabric | Conductive Rubber Cord | On/Off Switch |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-thread.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/alligator-clips.png" width="200px"/> |   |   |
+| Conductive Thread | Needles | Alligator Cables | Wire |
+| Micro-USB Cables | Electrical Tape | Wire Snips | Needlenose Pliers |
 
 ## Getting started
 ### Install Arduino integrated development environment
@@ -69,15 +51,36 @@ Each component has its own hardware connection diagrams and code samples. You wi
 <img src="https://github.com/eaziware/wear-me/blob/master/images/flora_pinout.png"/>
 
 ### Components
-|   |   |   |   |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/gemma.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png" width="200px"/> |
-| Adafruit FLORA | Adafruit Gemma | 24 Neopixel Ring | 12 Neopixel Ring |
-| <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-7-jewel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-60-strip.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/color-sensor.png" width="200px"/> |
-| 7 Neopixel Jewel | Neopixel | 60 Neopixel Strip | Color Sensor |
-| <img src="https://github.com/eaziware/wear-me/blob/master/images/uv-light-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/accelerometer-compass.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/tilt-ball-switch.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/force-sensor.png" width="200px"/> |
-| UV Light Sensor | Accelerometer & Compass | Tilt Ball Switch | Force Sensor |
-| <img src="https://github.com/eaziware/wear-me/blob/master/images/soft-potentiometer.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-fabric.png" width="200px"/> |   | <img src="https://github.com/eaziware/wear-me/blob/master/images/on-off-switch.png" width="200px"/> |
-| Soft Potentiometer | Conductive Fabric | Conductive Rubber Cord | On/Off Switch |
-| <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-thread.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/alligator-clips.png" width="200px"/> |   |   |
-| Conductive Thread | Alligator Clips |   |   |
+
+
+- Boards
+  - Adafruit FLORA
+  - Adafruit Gemma
+- Lights
+  - Neopixels
+  - Red sequins
+  - Blue sequins
+  - 7 Neopixel jewels
+  - 12 Neopixel rings
+  - 24 Neopixel rings
+  - 60 Neopixel strips
+- Inputs
+  - Tilt ball switches
+  - Soft potentiometers
+  - On/Off switches
+  - Color sensors
+  - UV light sensors
+  - Accelerometer + compass
+  - Force sensor
+  - Conductive fabric
+  - Conductive rubber cord stretch sensor
+- Utilities
+  - Conductive thread
+  - Needles
+  - Alligator cables
+  - Wire
+  - Micro-USB cables
+- Tools
+  - Electrical tape
+  - Wire snips
+  - Needlenose pliers
