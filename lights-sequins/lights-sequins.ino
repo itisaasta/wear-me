@@ -4,7 +4,7 @@ int counter = 0;       // counter to keep track of cycles
 
 // the setup routine runs once when you press reset:
 void setup()  { 
-  pinMode(0, OUTPUT); // the D0 pin that the sequin is connected to
+  pinMode(10, OUTPUT); // the D10 pin that the sequin is connected to
 } 
 
 // the loop routine runs over and over again forever:
