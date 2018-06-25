@@ -13,10 +13,10 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
   - Neopixels
   - Red sequins
   - Blue sequins
-  - Neopixel jewels
-  - Neopixel 12 rings
-  - Neopixel 24 rings
-  - Neopixel 60 strips
+  - 7 Neopixel jewels
+  - 12 Neopixel rings
+  - 24 Neopixel rings
+  - 60 Neopixel strips
 - Inputs
   - Tilt ball switches
   - Soft potentiometers
@@ -71,5 +71,5 @@ Each component has its own hardware connection diagrams and code samples. You wi
 |   |   |   |   |
 |---|---|---|---|
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/gemma.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png" width="200px"/> |
-|   |   |   |
-|   |   |   |
+| Adafruit FLORA | Adafruit Gemma | 24 Neopixel Ring | 12 Neopixel Ring |
+|   |   |   |   |
