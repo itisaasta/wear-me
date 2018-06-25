@@ -70,6 +70,6 @@ Each component has its own hardware connection diagrams and code samples. You wi
 
 |   |   |   |   |
 |---|---|---|---|
-| ![](https://github.com/eaziware/wear-me/blob/master/images/flora.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/gemma.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png) |
+| <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="200"/> | ![](https://github.com/eaziware/wear-me/blob/master/images/gemma.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png) | ![](https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png) |
 |   |   |   |
 |   |   |   |
