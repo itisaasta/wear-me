@@ -56,5 +56,7 @@ Each component has its own hardware connection diagrams and code samples. You wi
 
 Start your wearable using a FLORA if you can, as you'll be able to read input sensor readings in a serial monitor, whereas you cannot do this with the Gemma without extra hardware. If you'd like to make your wearable smaller later, most code and sensors are transferrable to the Gemma.
 
+All components can be purchased via Adafruit or Amazon.
+
 <img src="https://github.com/eaziware/wear-me/blob/master/images/flora_pinout.png"/>
 <div align="center"><img src="https://github.com/eaziware/wear-me/blob/master/images/gemma_pinout.png"/></div>
