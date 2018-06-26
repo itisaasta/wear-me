@@ -9,15 +9,15 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
 |   |   |   |   |
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/gemma.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png" width="250px"/> |
-| Adafruit FLORA (14) | Adafruit Gemma (16) | 24 Neopixel Ring (6) | 12 Neopixel Ring (5) |
+| Adafruit FLORA (14) | Adafruit Gemma (16) | [24 Neopixel Ring (6)](https://github.com/eaziware/wear-me/tree/master/lights-neopixels) | [12 Neopixel Ring (5)](https://github.com/eaziware/wear-me/tree/master/lights-neopixels) |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-7-jewel.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-60-strip.png" width="250px"/> |   |
-| 7 Neopixel Jewel (1) | Neopixel (39) | 60 Neopixel Strip (5) | Red (5) & Blue (10) Sequins |
+| [7 Neopixel Jewel (1)](https://github.com/eaziware/wear-me/tree/master/lights-neopixels) | [Neopixel (39)](https://github.com/eaziware/wear-me/tree/master/lights-neopixels) | [60 Neopixel Strip (5)](https://github.com/eaziware/wear-me/tree/master/lights-neopixels) | [Red (5) & Blue (10) Sequins](https://github.com/eaziware/wear-me/tree/master/lights-sequins) |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/color-sensor.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/uv-light-sensor.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/accelerometer-compass.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/tilt-ball-switch.png" width="250px"/> |
-| Color Sensor (6) | UV Light Sensor (6) | Accelerometer & Compass (3) | Tilt Ball Switch (1) |
+| [Color Sensor (6)](https://github.com/eaziware/wear-me/tree/master/inputs-color-sensor) | [UV Light Sensor (6)](https://github.com/eaziware/wear-me/tree/master/inputs-uv-light-sensor) | [Accelerometer & Compass (3)](https://github.com/eaziware/wear-me/tree/master/inputs-accelerometer-compass) | [Tilt Ball Switch (1)](https://github.com/eaziware/wear-me/tree/master/inputs-tilt-ball-switch) |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/force-sensor.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/soft-potentiometer.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-fabric.png" width="250px"/> |   |
-| Force Sensor (1) | Soft Potentiometer (2) | Conductive Fabric (1) | Conductive Rubber Cord (4) |
+| [Force Sensor (1)](https://github.com/eaziware/wear-me/tree/master/inputs-force-sensor) | [Soft Potentiometer (2)](https://github.com/eaziware/wear-me/tree/master/inputs-soft-potentiometer) | [Conductive Fabric (1)](https://github.com/eaziware/wear-me/tree/master/inputs-conductive-fabric) | [Conductive Rubber Cord (4)](https://github.com/eaziware/wear-me/tree/master/inputs-conductive-rubber-cord-stretch-sensor) |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/on-off-switch.png" width="250px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-thread.png" width="250px"/> |   | <img src="https://github.com/eaziware/wear-me/blob/master/images/alligator-clips.png" width="250px"/> |   |
-| On/Off Switch (5) | Conductive Thread | Needles | Alligator Cables |
+| [On/Off Switch (5)](https://github.com/eaziware/wear-me/tree/master/inputs-on-off-switch) | Conductive Thread | Needles | Alligator Cables |
 | Wire | Micro-USB Cables | Electrical Tape | Wire Snips |
 | Needlenose Pliers |
 
