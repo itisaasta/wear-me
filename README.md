@@ -52,7 +52,7 @@ Each of the Adafruit wearables components requires a library in the Arduino IDE 
 ## Building
 You will build the circuits for your idea using alligator clips first, then when it is fully functional, you can sew the circuit into your finished product.
 
-Each component has its own hardware connection diagrams and code samples. You will find detailed instructions for each component you can work with in the corresponding folder. The general workflow is connect the hardware, open the .ino file, make any modifications desired, upload to the board, and open the serial monitor to view the result.
+Each component has its own hardware connection diagrams and code samples. You will find detailed instructions for each component you can work with in the corresponding folder. The general workflow is connect the hardware, open the .ino file, make any modifications desired, upload to the board, and open the serial monitor to view the result. The alligator clip colors do not matter - just ensure you are connecting the cables as indicated in the diagram.
 
 Start your wearable using a FLORA if you can, as you'll be able to read input sensor readings in a serial monitor, whereas you cannot do this with the Gemma without extra hardware. If you'd like to make your wearable smaller later, most code and sensors are transferrable to the Gemma.
 
