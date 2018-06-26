@@ -9,15 +9,15 @@ Wear me helps bring your wearables idea to life. You can create clothes and acce
 |   |   |   |   |
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/flora.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/gemma.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-24-ring.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-12-ring.png" width="200px"/> |
-| Adafruit FLORA | Adafruit Gemma | 24 Neopixel Ring | 12 Neopixel Ring |
+| Adafruit FLORA (14) | Adafruit Gemma (16) | 24 Neopixel Ring (6) | 12 Neopixel Ring (5) |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-7-jewel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/neopixel-60-strip.png" width="200px"/> |   |
-| 7 Neopixel Jewel | Neopixel | 60 Neopixel Strip | Red & Blue Sequins |
+| 7 Neopixel Jewel (1) | Neopixel (39) | 60 Neopixel Strip (5) | Red (5) & Blue (10) Sequins |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/color-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/uv-light-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/accelerometer-compass.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/tilt-ball-switch.png" width="200px"/> |
-| Color Sensor | UV Light Sensor | Accelerometer & Compass | Tilt Ball Switch |
+| Color Sensor (6) | UV Light Sensor (6) | Accelerometer & Compass (3) | Tilt Ball Switch (1) |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/force-sensor.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/soft-potentiometer.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-fabric.png" width="200px"/> |   |
-| Force Sensor | Soft Potentiometer | Conductive Fabric | Conductive Rubber Cord |
+| Force Sensor (1) | Soft Potentiometer (2) | Conductive Fabric (1) | Conductive Rubber Cord (4) |
 | <img src="https://github.com/eaziware/wear-me/blob/master/images/on-off-switch.png" width="200px"/> | <img src="https://github.com/eaziware/wear-me/blob/master/images/conductive-thread.png" width="200px"/> |   | <img src="https://github.com/eaziware/wear-me/blob/master/images/alligator-clips.png" width="200px"/> |   |
-| On/Off Switch | Conductive Thread | Needles | Alligator Cables |
+| On/Off Switch (5) | Conductive Thread | Needles | Alligator Cables |
 | Wire | Micro-USB Cables | Electrical Tape | Wire Snips |
 | Needlenose Pliers |
 
