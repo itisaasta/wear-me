@@ -55,37 +55,4 @@ You will build the circuits for your idea using alligator clips first, then when
 Each component has its own hardware connection diagrams and code samples. You will find detailed instructions for each component you can work with in the corresponding folder.
 
 <img src="https://github.com/eaziware/wear-me/blob/master/images/flora_pinout.png"/>
-
-### Components
-
-- Boards
-  - Adafruit FLORA
-  - Adafruit Gemma
-- Lights
-  - Red sequins
-  - Blue sequins
-  - Neopixels
-  - 7 Neopixel jewels
-  - 12 Neopixel rings
-  - 24 Neopixel rings
-  - 60 Neopixel strips
-- Inputs
-  - Tilt ball switches
-  - Soft potentiometers
-  - On/Off switches
-  - Color sensors
-  - UV light sensors
-  - Accelerometer + compass
-  - Force sensor
-  - Conductive fabric
-  - Conductive rubber cord stretch sensor
-- Utilities
-  - Conductive thread
-  - Needles
-  - Alligator cables
-  - Wire
-  - Micro-USB cables
-- Tools
-  - Electrical tape
-  - Wire snips
-  - Needlenose pliers
+<img src="https://github.com/eaziware/wear-me/blob/master/images/gemma_pinout.png"/>
